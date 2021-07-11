@@ -29,7 +29,11 @@ import "./Video.css"
 
 
 
-const server_url = process.env.NODE_ENV === 'production' ? 'https://rendezvous-meet.azurewebsites.net' : "http://localhost:4000"
+//Uncomment during production
+//const server_url = process.env.NODE_ENV === 'production' ? 'https://rendezvous-meet.azurewebsites.net' : "http://localhost:4000"
+
+//For development mode
+const server_url= "http://localhost:4000"
 
 //Defining free stun servers
 var connections = {}
