@@ -52,8 +52,9 @@ Rendezvous is live at : 'https://rendezvous-meet.azurewebsites.net'
 1. `yarn install`
 2. `yarn build`
 3. `node server.js`
+4.  Visit "http://localhost:4000"
 
 
-
+ 
 
 
