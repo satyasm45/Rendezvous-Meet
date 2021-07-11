@@ -14,7 +14,7 @@
 ## Working Prototype
 Rendezvous is live at : 'https://rendezvous-meet.azurewebsites.net'
 
-## Project File/Folder Description
+## Project Description
 
 <ul>
   <li><b>/src/Homepage(UI)</b> - Where all the UI of homepage is handled.</li>
@@ -23,6 +23,7 @@ Rendezvous is live at : 'https://rendezvous-meet.azurewebsites.net'
   <li><b>/src/Video.js</b> - The file for rendering the video-calling experience</li>
   <li><b>/Editor</b> - Static files for the Online Collab Editor.</li>
   <li><b>server.js</b> -Server Side code.
+  <li><b>main_rendezvous-meet.yml</b> -Workflow file for CI/CD using Azure
 </ul>
 
 ## Features
