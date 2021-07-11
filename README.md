@@ -5,7 +5,7 @@
 <tr>
 <td>
   Rendezvous is a Microsoft Teams Clone built as a part of Engage 2021. It leverages WebRTC and PUSHER to provide various 
-  real-time functionalities. Built using ReactJS,Node.js and Socket.io. 
+  real-time functionalities. Built using ReactJS,Node.js and Socket.io. #Be_Agile.
 </td>
 </tr>
 </table>
@@ -30,6 +30,7 @@ Rendezvous is live at : 'https://rendezvous-meet.azurewebsites.net'
 - Supports Video-Calling and 'Chat'.
 - Supports Screen-share,File-share and Recording
 - Access to white-board for real-time text-sync.
+- Access previous meeting 'chats' anytime.
 
 ## Tips for Usage
 - Works well with two browser tabs or devices on the same network
@@ -39,8 +40,8 @@ Rendezvous is live at : 'https://rendezvous-meet.azurewebsites.net'
 
 ## Built with
 
-- [WebRTC API](https://webrtc.org/)API for Real-time communication capability.
-- [PUSHER](https://pusher.com/)API for Real-time communication capability.
+- [WebRTC API](https://webrtc.org/)-API for Real-time communication capability.
+- [PUSHER](https://pusher.com/)-API for Real-time communication capability.
 - [Material-UI](https://material-ui.com/) - A popular React UI frame work.
 - [Unsplash](https://unsplash.com/) - Source for freely-usable images.
 
