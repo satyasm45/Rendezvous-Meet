@@ -21,22 +21,22 @@ Rendezvous is live at : 'https://rendezvous-meet.azurewebsites.net'
   <li><b>/docs</b>-Doc showcasing Agile Scrum development methodology.
   <li><b>/src/Homepage(UI)</b> - Where all the UI of homepage is handled.</li>
   <li><b>/src/App.js</b> - React Routes Handled here.</li>
-  <li><b>/src/Homepage.js</b> - The file for rendering the homepage</li>
-  <li><b>/src/Video.js</b> - The file for rendering the video-calling experience</li>
+  <li><b>/src/Homepage.js</b> - The file for rendering the homepage.</li>
+  <li><b>/src/Video.js</b> - The file for rendering the video-calling experience.</li>
   <li><b>/Editor</b> - Static files for the Online Collab Editor.</li>
   <li><b>server.js</b> -Server Side code.
-  <li><b>main_rendezvous-meet.yml</b> -Workflow file for CI/CD using Azure
+  <li><b>main_rendezvous-meet.yml</b> -Workflow file for CI/CD using Azure.</li>
 </ul>
 
 ## Features
 - Hassle-free no sign-up WebApp.
 - Supports Video-Calling and 'Chat'.
-- Supports Screen-share,File-share and Recording
+- Supports Screen-share,File-share and Recording.
 - Access to white-board for real-time text-sync.
 - Access previous meeting 'chats' anytime.
 
 ## Tips for Usage
-- Works well with two browser tabs or devices on the same network
+- Works well with two browser tabs or devices on the same network.
 - Before receiving a file,file-tab must be open before-hand.
 - Trouble getting stream? Toggle camera.
 
