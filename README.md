@@ -17,7 +17,7 @@ Rendezvous is live at : 'https://rendezvous-meet.azurewebsites.net'
 
 ## Troubleshooting
 <b>USER 2 CAN'T GET STREAM OF USER 1?
-  TELL USER 1 TO TOGGLE CAMERA ICON ONCE.</b>
+  TELL USER 1 TO TURN OFF CAMERA AND TURN IT ON AGAIN.</b>
 
 ## Project Description
 
