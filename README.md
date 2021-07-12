@@ -15,7 +15,7 @@
 Rendezvous is live at : 'https://rendezvous-meet.azurewebsites.net'
 <br><i><b>Note</b>:May take a liitle time to load when accessing for the first time.</i>
 
-### Troubleshooting
+## Troubleshooting
 <b>USER 2 CAN'T GET STREAM OF USER 1?
   TELL USER 1 TO TOGGLE CAMERA ICON ONCE.</b>
 
