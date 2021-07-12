@@ -56,6 +56,8 @@ Rendezvous is live at : 'https://rendezvous-meet.azurewebsites.net'
 3. `node server.js`
 4.  Visit "http://localhost:4000"
 
+###Made with <span style="color: #e25555;">&#9829;</span> by Satya Sangram
+
 
  
 
