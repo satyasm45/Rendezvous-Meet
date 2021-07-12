@@ -13,7 +13,7 @@
 
 ## Working Prototype
 Rendezvous is live at : 'https://rendezvous-meet.azurewebsites.net'
-<break><i>Note:May take a liitle time to load when accessing for the first time.
+<br><i>Note:May take a liitle time to load when accessing for the first time.
 
 ## Project Description
 
