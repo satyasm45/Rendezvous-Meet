@@ -1,4 +1,4 @@
-//Hnadle websockets connections
+//Handles websockets connections
 //Establishes Connection to PUSHER api
 const express = require('express')
 const http = require('http')
