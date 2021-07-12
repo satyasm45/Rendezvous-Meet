@@ -13,10 +13,12 @@
 
 ## Working Prototype
 Rendezvous is live at : 'https://rendezvous-meet.azurewebsites.net'
+<i>Note:May take a liitle time to load when accessing for the first time.
 
 ## Project Description
 
 <ul>
+  <li><b>/docs</b>-Doc showcasing Agile Scrum development methodology.
   <li><b>/src/Homepage(UI)</b> - Where all the UI of homepage is handled.</li>
   <li><b>/src/App.js</b> - React Routes Handled here.</li>
   <li><b>/src/Homepage.js</b> - The file for rendering the homepage</li>
