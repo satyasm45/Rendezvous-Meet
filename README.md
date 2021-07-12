@@ -35,10 +35,12 @@ Rendezvous is live at : 'https://rendezvous-meet.azurewebsites.net'
 - Access to white-board for real-time text-sync.
 - Access previous meeting 'chats' anytime.
 
-## Tips for Usage
+## Tips for Usage/Troubleshooting
+
+- <b>USER 2 CAN'T GET STREAM OF USER 1? TELL USER 1 TO TOGGLE CAMERA ICON ONCE.</b>
 - Works well with two browser tabs or devices on the same network.
 - Before receiving a file,file-tab must be open before-hand.
-- Trouble getting stream? Toggle camera.
+
 
 
 
