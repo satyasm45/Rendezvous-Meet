@@ -34,10 +34,13 @@ Rendezvous is live at : 'https://rendezvous-meet.azurewebsites.net'
 
 ## Features
 - Hassle-free no sign-up WebApp.
-- Supports Video-Calling and 'Chat'.
+- 2 or More users can join the Video-Call.(<b>Mandatory feature</b>)
+- Supports 'Chat' during meeting.
+- Access previous Meeting 'Chats' anytime.(<b>Adapt Feature</b>).
+- Complete control over Camera and Microphone.
 - Supports Screen-share,File-share and Recording.
-- Access to white-board for real-time text-sync.
-- Access previous meeting 'chats' anytime.
+- Access to White-Board for real-time text-sync.
+-
 
 ## Tips for Usage
 
