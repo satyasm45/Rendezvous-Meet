@@ -40,7 +40,7 @@ Rendezvous is live at : 'https://rendezvous-meet.azurewebsites.net'
 - Complete control over Camera and Microphone.
 - Supports Screen-share,File-share and Recording.
 - Access to White-Board for real-time text-sync.
--
+
 
 ## Tips for Usage
 
