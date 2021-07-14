@@ -41,6 +41,7 @@ Rendezvous is live at : 'https://rendezvous-meet.azurewebsites.net'
 - Supports Screen-share,File-share and Recording.
 - End the Call Anytime.
 - Access to White-Board for real-time text-sync.
+- Responsive UI.
 
 
 ## Tips for Usage
